@@ -137,3 +137,9 @@
 [material-design配色工具](http://www.materialpalette.com/)
 
 [material-design设计创意](http://www.materialup.com/)
+
+[Material化前端框架](http://materializecss.com/)
+
+[Material Design 的Sketch 模板](https://dribbble.com/shots/1686164-Material-Design-Free-Sketch-Template-Icons?list=searches&offset=5)
+
+[Material组件包](http://theultralinx.com/2014/11/material-design-ui-kit-free-download/)
