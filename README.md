@@ -11,21 +11,21 @@
 ###动画
 
 
-动画不只是装饰，它有含义，能表达元素、界面之间的关系，具备功能上的作用。动画要贴近真实世界，就要重视easing(加速和减速过程)
+>     动画不只是装饰，它有含义，能表达元素、界面之间的关系，具备功能上的作用。动画要贴近真实世界，就要重视easing(加速和减速过程)
 
 
-| easing        | relation           |
-|:-------------:|: -------------:|
-| ![](./img/animation.gif)     | ![](./img/animation-relation.gif)|
-| feedback        | feedback2           |
-| ![](./img/animation-feedback.gif)     | ![](./img/animation-feedback2.gif)|
+| easing | relation |
+|-------------| -------------|
+| ![](./img/animation.gif) | ![](./img/animation-relation.gif) |
+| feedback | feedback2 |
+| ![](./img/animation-feedback.gif) | ![](./img/animation-feedback2.gif) |
 
 
 ###转场
 
-| 通过过渡动画，表达界面之间的空间与层级关系，并且跨界面传递信息。        | 从符界面进入到子界面需要抬升子元素的海拔，并展至整个屏幕，反之亦然           |
+| 通过过渡动画，表达界面之间的空间与层级关系，并且跨界面传递信息。| 从符界面进入到子界面需要抬升子元素的海拔，并展至整个屏幕，反之亦然 |
 |:-------------:|: -------------:|
-| ![](./img/Transition2.gif)     | ![](./img/Transition.gif)|
+| ![](./img/Transition2.gif) | ![](./img/Transition.gif)|
 
 ###icon
 
