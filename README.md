@@ -98,7 +98,7 @@
 |![](./img/textField.png)|![](./img/textField2.png)|![](./img/textField3.png)|
 
 ###tooltips
-| 提示条 |||
+| 提示条 ||
 |-------------|-------------|
 |![](./img/tooltips.png)|提示不能包含富文本<br>不需要三角箭头|
 
